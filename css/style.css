@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: rgb(189, 239, 253);
+    padding: 20px;
+}
+
+h1{
+    color: rgb(47, 67, 198);
+    text-align: center;
+}
+
+h2{
+    color: rgb(185, 5, 47);
+    border-bottom: 1px solid black;
+}
+
+p{
+    line-height: 1.6;
+    max-width: 700px;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(99, 104, 245);
+}
+
+a:hover{
+    color: rgb(81, 0, 255);
+}
